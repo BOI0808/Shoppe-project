@@ -1289,7 +1289,7 @@ i.home-product-item__like-icon-fill {
   color: #ee4d2d;
   font-weight: 600;
   font-size: 1.2rem;
-  line-height: 1.5rem;
+  line-height: 1.2rem;
 }
 
 .home-product-item__sale-off-label {
@@ -1297,6 +1297,8 @@ i.home-product-item__like-icon-fill {
   font-size: 1.3rem;
   line-height: 1.3rem;
   font-weight: 600;
+  position: relative;
+  top: -8px;
 }
 
 .home-product__pagination {
