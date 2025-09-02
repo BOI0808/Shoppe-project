@@ -128,4 +128,7 @@
     display: block;
     padding: 6px 8px;
   }
+  .home-product-item__sale-off-percent {
+    line-height: 1.5rem;
+  }
 }
